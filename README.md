@@ -8,4 +8,6 @@ For analyzing and comparing the effect of various user scenarios, we need to con
 
 This tool helps you to analyze BWP switching operations.
 
+ >> run "main.py"
+
 ![image](https://user-images.githubusercontent.com/98713651/151722012-c6e3b35b-8689-409c-bdd0-eefd19594111.png)
